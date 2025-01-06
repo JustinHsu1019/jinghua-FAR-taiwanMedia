@@ -1,0 +1,21 @@
+ID,date,Media,Political Bias,Evidence Objectivity,Emotional Intensity
+tvbs_01.txt,2024/09/02,TVBS,bias,Subjective,medium
+tvbs_02.txt,2024/09/02,TVBS,Not biased,Objective,medium
+tvbs_01.txt,2024/12/26,TVBS,Not biased,Objective,medium
+tvbs_02.txt,2024/12/26,TVBS,Not biased,Objective,medium
+mirror_01.txt,2024/09/02,Mirror,Not biased,Objective,medium
+mirror_02.txt,2024/09/02,Mirror,Not biased,Objective,medium
+mirror_01.txt,2024/12/26,Mirror,Not biased,Objective,medium
+mirror_02.txt,2024/12/26,Mirror,Not biased,Objective,medium
+setn_01.txt,2024/09/02,SETN,Not biased,Subjective,high
+setn_02.txt,2024/09/02,SETN,Not biased,Objective,medium
+setn_01.txt,2024/12/26,SETN,Not biased,Subjective,medium
+setn_02.txt,2024/12/26,SETN,Not biased,Objective,medium
+cti_01.txt,2024/09/02,Ctitv,Not biased,Objective,medium
+cti_02.txt,2024/09/02,Ctitv,Not biased,Subjective,high
+cti_01.txt,2024/12/26,Ctitv,bias,Subjective,medium
+cti_02.txt,2024/12/26,Ctitv,Not biased,Objective,medium
+ftv_01.txt,2024/09/02,FTV,neutral,Subjective,high
+ftv_02.txt,2024/09/02,FTV,Not biased,Objective,medium
+ftv_01.txt,2024/12/26,FTV,neutral,Subjective,high
+ftv_02.txt,2024/12/26,FTV,Not biased,Objective,medium
